@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+.principal{
+    margin: auto;
+    max-width: 1024px;
+    background-color: blueviolet;
+}
+.cardPersonagem{
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
